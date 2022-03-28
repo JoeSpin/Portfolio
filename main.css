@@ -4754,3 +4754,7 @@ h2.text-center:after {
 .project{
   border-radius: 100%;
 }
+.projlink:hover{
+  color:#FF6D00;
+  text-decoration:none;
+}
