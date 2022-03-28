@@ -4751,4 +4751,6 @@ h2.text-center:after {
   display: block;
   margin: 30px 30px 0 0;
 }
-/*# sourceMappingURL=main.faaf51f9.map*/
+.project{
+  border-radius: 100%;
+}
